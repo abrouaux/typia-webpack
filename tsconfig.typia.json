@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "moduleResolution": "NodeNext",
+    "strict": true,
+    "skipLibCheck": true,
+    "plugins": [
+      {
+        "transform": "typia/lib/transform.js"
+      }
+    ],
+  },
+}
